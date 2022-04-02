@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/
 # Autor: Robson Vaamonde
 # Procedimentos em TI: http://procedimentosemti.com.br
 # Bora para Prática: http://boraparapratica.com.br
